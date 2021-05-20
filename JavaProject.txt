@@ -77,7 +77,7 @@ public class Pyramid {
             }
             System.out.println();
         }
-        for(i=1; i<=(rows/2); i++) {
+        for(i=1; i<=rows/2; i++) {
             for (j = 1; j <= rows/2+4; j++) {
                 System.out.print(" ");
             }
